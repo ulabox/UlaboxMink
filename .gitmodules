@@ -1,0 +1,16 @@
+[submodule "vendor/Goutte"]
+	path = vendor/Goutte
+	url = git://github.com/everzet/Goutte.git
+[submodule "vendor/Symfony/Component/CssSelector"]
+	path = vendor/Symfony/Component/CssSelector
+	url = git://github.com/symfony/CssSelector.git
+[submodule "vendor/SahiClient"]
+	path = vendor/SahiClient
+	url = git://github.com/Behat/SahiClient.git
+[submodule "vendor/Buzz"]
+	path = vendor/Buzz
+	url = git://github.com/kriswallsmith/Buzz.git
+[submodule "vendor/Symfony/Component/Finder"]
+	path = vendor/Symfony/Component/Finder
+	url = git://github.com/symfony/Finder
+
